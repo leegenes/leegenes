@@ -2,4 +2,4 @@
 
 A software engineer
 
-[leehaugen.com](leehaugen.com)
+[leehaugen.com](www.leehaugen.com)
