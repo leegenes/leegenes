@@ -2,4 +2,4 @@
 
 A software engineer
 
-Works for [Check](https://www.checkhq.com/).
+[leehaugen.com](leehaugen.com)
